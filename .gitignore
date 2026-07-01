@@ -1,0 +1,35 @@
+# Gradle
+.gradle/
+build/
+*/build/
+
+# Local config
+local.properties
+
+# ESP secrets
+esp/moodlit_esp/secrets.h
+
+# VSCode
+.vscode/
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+
+# Logs and OS cruft
+*.log
+.DS_Store
+Thumbs.db
+
+# APKs / bundles / binaries
+*.apk
+*.aab
+*.dex
+*.class
+
+# NDK
+.cxx/
+.externalNativeBuild/
+
+# Captures
+captures/
